@@ -1,0 +1,8 @@
+train: dataset/dataset/images/train
+val: dataset/dataset/images/val
+nc: 4
+names:
+  - fish
+  - Jelly
+  - shark
+  - tuna
